@@ -1,0 +1,81 @@
+/*HEADER*/
+
+html{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.main-menu,
+.logo,
+.col{
+    display: flex;
+}
+
+.main-menu,
+.logo{
+    display: flex;
+    text-transform: uppercase;
+    padding: 28px 0;
+    margin-right: 25px;
+}
+
+
+
+.main-menu a{
+    padding: 20px 0;
+    display: inline-block;
+    margin-right: 40px;
+    text-transform: uppercase;
+}
+
+.main-menu{
+    align-self: flex-end;
+    display: flex;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.justify-content-spase-between{
+    justify-content: space-between;
+}
+
+.hero-section{
+    height: 633px;
+    background-image: url(../img/bg.jpg);
+    position: relative;
+
+}
+
+ul>li>a{
+    display: inline-block;
+    margin: 14px;
+}
+
+/*BANNER*/
+
+
+
+
+
+
+
+   
+
+
